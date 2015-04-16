@@ -4,11 +4,9 @@
 /* ---------------------------------------------------------
  *  About - Mobile
  * --------------------------------------------------------- */
-@import url(vendor/bootstrap.min.css);
-@import url(vendor/bootstrapValidator.min.css);
-@import url(vendor/ladda-themeless.min.css);
-@import url(vendor/jquery.bxslider.css);
 @import url(vendor/animate.css);
+@import url(vendor/bootstrap.min.css);
+@import url(vendor/font-awesome.min.css);
 .about-item {
   position: relative;
 }
