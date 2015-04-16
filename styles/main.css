@@ -6,7 +6,6 @@
  * --------------------------------------------------------- */
 @import url(vendor/animate.css);
 @import url(vendor/bootstrap.min.css);
-@import url(vendor/font-awesome.min.css);
 .about-item {
   position: relative;
 }
